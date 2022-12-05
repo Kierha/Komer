@@ -88,7 +88,7 @@ Le client souhaite reprendre en interne de la société le développement de l�
 il vous est nécessaire de respecter plusieurs contraintes techniques :
 - L’application doit être pour la plateforme Android
 - L’application doit être développée avec le langage Kotlin
-- Le projet doit utiliser le pattern MVVM : https://medium.com/androidmood/comprendre-larchitecture-mvvm-sur-android-aa285e4fe9dd
+- Le projet doit utiliser le pattern [MVVM](https://medium.com/androidmood/comprendre-larchitecture-mvvm-sur-android-aa285e4fe9dd)
 - Utilisation de design pattern
 - Respect des principes SOLID
 
