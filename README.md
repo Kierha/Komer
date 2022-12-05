@@ -20,9 +20,9 @@ contacter le client.
 
 A l’aide de Firebase, il vous est demandé de permettre l’inscription des utilisateurs. Une 
 interface devra permettre de saisir les informations de base telles que :
-• Le nom d’utilisateur
-• Le mot de passe
-• La confirmation du mot de passe
+- Le nom d’utilisateur
+- Le mot de passe
+- La confirmation du mot de passe
 
 ### Connexion utilisateur (10 points) 
 
@@ -44,15 +44,15 @@ est automatiquement chargée si elle existe.
 
 La page de détails d’une recette est probablement la plus importante de toute l’application. C’est 
 grâce à elle que l’utilisateur va pouvoir consulter toutes les informations relatives à la recette : 
-• Le titre
-• L’image principale de la recette
-• Le temps de préparation
-• L’URL source de la recette
-• La liste des ingrédients nécessaire à la préparation
-• Afficher une image si la recette est pour végan
-• Afficher une image si la recette est pour végétarien
-• La description
-• Proposer la liste des recettes similaires 
+- Le titre
+- L’image principale de la recette
+- Le temps de préparation
+- L’URL source de la recette
+- La liste des ingrédients nécessaire à la préparation
+- Afficher une image si la recette est pour végan
+- Afficher une image si la recette est pour végétarien
+- La description
+- Proposer la liste des recettes similaires 
 
 ### Gestion des favoris (15 points) 
 
@@ -86,11 +86,11 @@ et se baser principalement sur Material Design.
 
 Le client souhaite reprendre en interne de la société le développement de l’application. De ce fait 
 il vous est nécessaire de respecter plusieurs contraintes techniques :
-• L’application doit être pour la plateforme Android
-• L’application doit être développée avec le langage Kotlin
-• Le projet doit utiliser le pattern MVVM
-• Utilisation de design pattern
-• Respect des principes SOLID
+- L’application doit être pour la plateforme Android
+- L’application doit être développée avec le langage Kotlin
+- Le projet doit utiliser le pattern MVVM : https://medium.com/androidmood/comprendre-larchitecture-mvvm-sur-android-aa285e4fe9dd
+- Utilisation de design pattern
+- Respect des principes SOLID
 
 ### Outils et aide 
 
